@@ -6,7 +6,7 @@
 *Last update: 4/15/2021*
 
  <p align="center">
- <img src="https://github.com/czaloumi/transformers/blob/master/images/transformers.png" width="75%" height="75%"/>
+ <img src="https://github.com/czaloumi/transformers/blob/main/images/transformers-movie.jpeg" width="75%" height="75%"/>
  </p>
 
 A lecture-style exploration of transformers following Jay Alammar's post [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/). Includes breakout questions and motivating examples.
