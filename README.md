@@ -23,7 +23,6 @@ A lecture-style exploration of transformers following Jay Alammar's post [The Il
 7. Loss Function
 
 ## References/Resources
----
 * [Visualizing Machine Neural Translation](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 * [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 * [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
@@ -38,6 +37,5 @@ A lecture-style exploration of transformers following Jay Alammar's post [The Il
 * [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
 
 ## Further Work
----
 1. Coding a basic transformer for natural language processing.
 2. Coding a not-so-basic transformer for tbd application.
